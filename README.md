@@ -1,4 +1,4 @@
-# NIP-70 · Protected Events on LiberNet
+# NIP-70 (Protected Events) on LiberNet
 
 > Protected Events, as used by the **LiberNet** apps.
 
